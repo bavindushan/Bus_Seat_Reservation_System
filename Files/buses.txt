@@ -1,0 +1,4 @@
+1,138,45,Fort,Kadawatha,8.00AM,150
+2,1,54,Colombo,Kandy,8.30AM,900
+3,6,54,Colombo,Kurunegala,8.30AM,800
+4,98,54,Colombo,Ampara,8.30AM,1800

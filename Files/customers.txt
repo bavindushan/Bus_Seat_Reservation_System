@@ -1,0 +1,7 @@
+1,John,0774558962,john@gmail.com,Gampaha,35
+2,Anna,0778996541,anna@gmail.com,Colombo,22
+3,Jane,071452256,jane@gmail.com,Kadawatha,26
+4,Anatoly,0765554478,anatoly@gmail.com,Colombo,14
+1212,Shan,1112221122,shan@gmail.com,Kandy,22
+323,Roshan,33223232,roshan@123,Jaffna,23
+234,Asnaka,33333344444,asnaka@1212,Minuwangoda,32
